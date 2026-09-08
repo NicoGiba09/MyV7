@@ -2,9 +2,9 @@
 import subprocess, os
 
 # ====== CONFIGURACION ======
-USERNAME   = "jeph"
-PASSWORD   = "medina"
-RESOLUTION = "1920x1080"
+USERNAME   = "admin"
+PASSWORD   = "admin"
+RESOLUTION = "1280x720"
 # Tailscale: pega tu authkey de https://login.tailscale.com/admin/settings/keys
 # (o déjalo en "" si prefieres escanear el QR manualmente)
 TS_AUTHKEY = ""
